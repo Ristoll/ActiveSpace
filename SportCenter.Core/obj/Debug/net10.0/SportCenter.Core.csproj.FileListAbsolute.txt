@@ -1,0 +1,6 @@
+D:\VSCode\ActiveSpace\SportCenter.Core\obj\Debug\net10.0\SportCenter.Core.csproj.AssemblyReference.cache
+D:\VSCode\ActiveSpace\SportCenter.Core\obj\Debug\net10.0\SportCenter.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\ActiveSpace\SportCenter.Core\obj\Debug\net10.0\SportCenter.Core.AssemblyInfoInputs.cache
+D:\VSCode\ActiveSpace\SportCenter.Core\obj\Debug\net10.0\SportCenter.Core.AssemblyInfo.cs
+D:\VSCode\ActiveSpace\SportCenter.Core\obj\Debug\net10.0\SportCenter.Core.csproj.CoreCompileInputs.cache
+D:\VSCode\ActiveSpace\SportCenter.Core\obj\Debug\net10.0\SportCenter.Core.sourcelink.json

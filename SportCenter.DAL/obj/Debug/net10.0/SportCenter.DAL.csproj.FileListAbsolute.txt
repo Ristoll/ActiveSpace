@@ -1,8 +1,6 @@
 D:\VSCode\ActiveSpace\SportCenter.DAL\bin\Debug\net10.0\SportCenter.DAL.deps.json
-D:\VSCode\ActiveSpace\SportCenter.DAL\bin\Debug\net10.0\SportCenter.DAL.runtimeconfig.json
 D:\VSCode\ActiveSpace\SportCenter.DAL\bin\Debug\net10.0\SportCenter.DAL.dll
 D:\VSCode\ActiveSpace\SportCenter.DAL\bin\Debug\net10.0\SportCenter.DAL.pdb
-D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.csproj.AssemblyReference.cache
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.GeneratedMSBuildEditorConfig.editorconfig
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.AssemblyInfoInputs.cache
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.AssemblyInfo.cs
@@ -11,5 +9,4 @@ D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.sourceli
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.dll
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\refint\SportCenter.DAL.dll
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.pdb
-D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\SportCenter.DAL.genruntimeconfig.cache
 D:\VSCode\ActiveSpace\SportCenter.DAL\obj\Debug\net10.0\ref\SportCenter.DAL.dll

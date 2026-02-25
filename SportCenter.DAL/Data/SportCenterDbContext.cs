@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using SportCenter.DAL.Entities;
-
-namespace SportCenter.DAL.Data;
-
+﻿namespace SportCenter.DAL.Data;
+/*
 public partial class SportCenterDbContext : DbContext
+
 {
     public SportCenterDbContext()
     {
@@ -165,3 +161,4 @@ public partial class SportCenterDbContext : DbContext
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
+*/

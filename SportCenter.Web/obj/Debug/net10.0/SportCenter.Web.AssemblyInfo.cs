@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportCenter.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aeabf780d452ddcf9962cf9b3c357c3a347917d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2767dcfe2dcabc5ddb4d15145c13041b2c4032ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportCenter.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportCenter.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
