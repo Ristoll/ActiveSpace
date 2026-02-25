@@ -8,7 +8,7 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Крістіна\\.nuget\\packages\\": {},
+    "D:\\dotnet\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,7 +17,7 @@
       "projectUniqueName": "D:\\VSCode\\ActiveSpace\\SportCenter.Models\\SportCenter.Models.csproj",
       "projectName": "SportCenter.Models",
       "projectPath": "D:\\VSCode\\ActiveSpace\\SportCenter.Models\\SportCenter.Models.csproj",
-      "packagesPath": "C:\\Users\\Крістіна\\.nuget\\packages\\",
+      "packagesPath": "D:\\dotnet\\.nuget\\packages\\",
       "outputPath": "D:\\VSCode\\ActiveSpace\\SportCenter.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [

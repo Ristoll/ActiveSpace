@@ -1,11 +1,12 @@
 ﻿using SportCenter.DAL.Data;
 using System.Linq.Expressions;
-//using SportCenter.Core;
+using SportCenter.Core;
+
 using Microsoft.EntityFrameworkCore;
 
 
 namespace SportCenter.DAL;
-/*
+
 public class GenericRepository<T> : IGenericRepository<T>
 
     where T : class
@@ -42,7 +43,6 @@ public class GenericRepository<T> : IGenericRepository<T>
     public async Task<T?> FirstOrDefaultAsync(Expression<Func<T, bool>> predicate)
         => await _entities.FirstOrDefaultAsync(predicate);
 
-    public IQueryable<T> GetQueryable()
-        => _entities.AsQueryable();
+    public async Task<IQueryable<T>> GetQueryableAsync()
+        => await Task.FromResult(_entities.AsQueryable());
 }
-*/

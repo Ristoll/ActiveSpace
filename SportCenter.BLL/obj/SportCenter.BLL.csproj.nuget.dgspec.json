@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\VSCode\\ActiveSpace\\SportCenter.BLL\\SportCenter.BLL.csproj",
         "projectName": "SportCenter.BLL",
         "projectPath": "D:\\VSCode\\ActiveSpace\\SportCenter.BLL\\SportCenter.BLL.csproj",
-        "packagesPath": "C:\\Users\\Крістіна\\.nuget\\packages\\",
+        "packagesPath": "D:\\dotnet\\.nuget\\packages\\",
         "outputPath": "D:\\VSCode\\ActiveSpace\\SportCenter.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [

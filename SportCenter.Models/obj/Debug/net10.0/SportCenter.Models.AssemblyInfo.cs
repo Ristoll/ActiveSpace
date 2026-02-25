@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportCenter.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a431c3ab60665b814edcb1a4c5a59589b477206")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f404223f8378de44c33a12c4a0c64e6a3f4dbfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportCenter.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportCenter.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,8 @@
-﻿namespace SportCenter.DAL.Data;
-/*
+﻿using SportCenter.Core.Entities;
+using Microsoft.EntityFrameworkCore;
+
+namespace SportCenter.DAL.Data;
+
 public partial class SportCenterDbContext : DbContext
 
 {
@@ -161,4 +164,3 @@ public partial class SportCenterDbContext : DbContext
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
-*/

@@ -3978,12 +3978,13 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.EntityFrameworkCore.Design >= 10.0.3",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.3",
       "Microsoft.EntityFrameworkCore.Sqlite >= 10.0.3",
       "SportCenter.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Крістіна\\.nuget\\packages\\": {},
+    "D:\\dotnet\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -3992,7 +3993,7 @@
       "projectUniqueName": "D:\\VSCode\\ActiveSpace\\SportCenter.DAL\\SportCenter.DAL.csproj",
       "projectName": "SportCenter.DAL",
       "projectPath": "D:\\VSCode\\ActiveSpace\\SportCenter.DAL\\SportCenter.DAL.csproj",
-      "packagesPath": "C:\\Users\\Крістіна\\.nuget\\packages\\",
+      "packagesPath": "D:\\dotnet\\.nuget\\packages\\",
       "outputPath": "D:\\VSCode\\ActiveSpace\\SportCenter.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -4039,6 +4040,10 @@
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[10.0.3, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[10.0.3, )"
           },
