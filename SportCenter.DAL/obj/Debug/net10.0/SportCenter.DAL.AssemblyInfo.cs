@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportCenter.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aeabf780d452ddcf9962cf9b3c357c3a347917d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d2e53a126c74586c5839223caf4745234d08718")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportCenter.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportCenter.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
