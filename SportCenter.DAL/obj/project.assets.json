@@ -3983,7 +3983,7 @@
     ]
   },
   "packageFolders": {
-    "D:\\dotnet\\.nuget\\packages\\": {},
+    "C:\\Users\\Крістіна\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -3992,7 +3992,7 @@
       "projectUniqueName": "D:\\VSCode\\ActiveSpace\\SportCenter.DAL\\SportCenter.DAL.csproj",
       "projectName": "SportCenter.DAL",
       "projectPath": "D:\\VSCode\\ActiveSpace\\SportCenter.DAL\\SportCenter.DAL.csproj",
-      "packagesPath": "D:\\dotnet\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Крістіна\\.nuget\\packages\\",
       "outputPath": "D:\\VSCode\\ActiveSpace\\SportCenter.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
